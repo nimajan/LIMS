@@ -1,0 +1,11 @@
+{
+  "name": "accugen-mini-lims",
+  "version": "1.0.0",
+  "description": "The aims of the project is to manage the accugen's laboratory day to day data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Ali Sultani",
+  "license": "ISC"
+}
