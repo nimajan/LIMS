@@ -1,7 +1,7 @@
 {
-  "name": "accugen-mini-lims",
+  "name": "mini-lims",
   "version": "1.0.0",
-  "description": "The aims of the project is to manage the accugen's laboratory day to day data.",
+  "description": "laboratory information management system.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
